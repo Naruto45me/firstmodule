@@ -1,0 +1,29 @@
+{
+  "name": "firstmodule",
+  "version": "1.0.0",
+  "description": "this is my first module for node.js",
+  "main": "helloworld.js",
+  "dependencies": {
+    "httpdispatcher": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naruto45me/firstmodule.git"
+  },
+  "keywords": [
+    "Russell",
+    "Powers;",
+    "module;",
+    "node.js;"
+  ],
+  "author": "Russell Powers <russell.powers@gmail.com> (russell-powers.strikingly.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naruto45me/firstmodule/issues"
+  },
+  "homepage": "https://github.com/Naruto45me/firstmodule#readme"
+}
