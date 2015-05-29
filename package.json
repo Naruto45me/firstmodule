@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "none"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
